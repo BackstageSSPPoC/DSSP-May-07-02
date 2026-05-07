@@ -6,9 +6,9 @@ metadata:
   description: Service  DSSP-May-07-02
 
   annotations:
-    github.com/project-slug: BackstageSSPPoC/ DSSP-May-07-02
+    github.com/project-slug: BackstageSSPPoC/DSSP-May-07-02
     backstage.io/techdocs-ref: dir:.
-    jenkins.io/job-full-name: Backstage_SSP_PoC/ DSSP-May-07-02/main
+    jenkins.io/job-full-name: Backstage_SSP_PoC/DSSP-May-07-02/main
     argocd/app-name:  dssp-may-07-02
     backstage.io/kubernetes-id:  DSSP-May-07-02
     backstage.io/kubernetes-namespace: default
