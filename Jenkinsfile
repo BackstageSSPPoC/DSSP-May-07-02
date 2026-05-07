@@ -301,7 +301,7 @@ pipeline {
         stage('Checkout Code') {
             steps {
                 checkout scm
-            }
+            // }
         }
     
         stage('Decide Pipeline Flow') {
